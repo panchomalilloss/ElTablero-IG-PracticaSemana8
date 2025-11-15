@@ -6,7 +6,7 @@ Incluye edificios extruidos desde datos OSM, marcadores interactivos, tooltip di
 
 El objetivo es permitir explorar el mapa desde cualquier ángulo mientras se destacan puntos de interés importantes.
 
-**Puede visualizar el proyecto [aquí](https://codesandbox.io/p/github/panchomalilloss/ElTablero-IG-PracticaSemana8/main?import=true)**
+**Puede visualizar el proyecto [aquí](https://codesandbox.io/p/github/panchomalilloss/ElTablero-IG-PracticaSemana8/main?import=true) y con el siguiente [video](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/francisco_malillos101_alu_ulpgc_es/EQvOpphIbCBEsfo0p9J-6t4BoqzlanY_Ty9sYYgAd9emIw?e=GX7nre&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
 ---
 
